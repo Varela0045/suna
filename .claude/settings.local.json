@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(winget:*)",
+      "Bash(supabase:*)",
+      "Bash(docker compose:*)",
+      "Bash(docker image rm:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)"
+    ],
+    "deny": []
+  }
+}
